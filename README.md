@@ -6,7 +6,7 @@ clone of the Amazon website, built using HTML and CSS. It replicates the core in
 ## Technologies Used 
 
 - HTML5
-- CSS3
+- CSS
 - FontAwesome (for icons)
 
 ## Key Features
